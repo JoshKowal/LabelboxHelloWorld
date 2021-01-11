@@ -31,7 +31,7 @@ def project_to_json(project_name, platform):
     
     if platform == 'Mac':
         chrome_path = 'open -a /Applications/Google\ Chrome.app %s' #For Mac users
-    elif platform == 'Windows:
+    elif platform == 'Windows':
         chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s' #For Windows users
     elif platform == 'Linux':
         chrome_path = '/usr/bin/google-chrome %s' #For Linux users
