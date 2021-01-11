@@ -20,6 +20,6 @@ Note: You must create a Labelbox account before you do this project. Creating an
 
 ## To Export Your Labels:
 
-1. In ``GetExports.py``, replace ``<your_project_name_here>`` with the name of your labelled project.
-2. Uncomment whichever line calls ``project_to_json`` with the name of your platform.
+1. In ``GetExports.py``, uncomment whichever line calls ``project_to_json`` with the name of your platform.
+2. Run ``GetExports.py``.
 3. Check your downloads folder for the output JSON file.
