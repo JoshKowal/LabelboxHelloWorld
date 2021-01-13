@@ -12,7 +12,7 @@ Note: You must create a Labelbox account before you do this project. Creating an
 
 ## To Create Your Project:
 
-1. Run ``CreateAfricananimals.py``
+1. Run ``CreateAfricanAnimals.py``
 2. Make sure you see the message, "Check for project and photos!"
 3. Log into Labelbox and verify your project is there.
 4. To finish setting up your project, click on the project you created. Next, click "Next" for both circles 1 and 2, and you can configure your ontology.
