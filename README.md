@@ -30,3 +30,5 @@ Note: You must create a Labelbox account before you do this project. Creating an
 2. Fill in a project name, dataset name, and attach multiple image files.
 3. Press the "Create Project" button. Your project should be there when you log on to Labelbox.
 4. Create your ontology on Labelbox, as above, and you can start labelling after!
+
+*Note: This GUI currently only supports project creation for projects with image files. Video and text files are not yet supported as of 12 January 2021.
