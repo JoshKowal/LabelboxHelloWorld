@@ -23,3 +23,10 @@ Note: You must create a Labelbox account before you do this project. Creating an
 1. In ``GetExports.py``, uncomment whichever line calls ``project_to_json`` with the name of your platform.
 2. Run ``GetExports.py``.
 3. Check your downloads folder for the output JSON file.
+
+## To Use the GUI (``CreateProjectGUI.py``)
+
+1. Run ``python3 CreateProjectGUI.py`` in your local terminal.
+2. Fill in a project name, dataset name, and attach multiple image files.
+3. Press the "Create Project" button. Your project should be there when you log on to Labelbox.
+4. Create your ontology on Labelbox, as above, and you can start labelling after!
